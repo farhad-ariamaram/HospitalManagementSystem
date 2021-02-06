@@ -8,7 +8,7 @@
 
 - Microsoft SQL Server Compact 4.0
 
-## Architecture |
+## Architecture
 
 ```
 |__HospitalManagementSystem
@@ -20,15 +20,13 @@
   |
   |__Database
 ```
-## Database configuration | 
+## Database configuration
 ```XML
   <connectionStrings>
     <add name="Entities" connectionString="metadata=res://*/HospitalDBModel.csdl|res://*/HospitalDBModel.ssdl|res://*/HospitalDBModel.msl;provider=System.Data.SqlServerCe.4.0;provider connection string=&quot;Data Source=|DataDirectory|\HospitalDB.sdf&quot;" providerName="System.Data.EntityClient" />
   </connectionStrings>
 ```
 ## Screenshot
-
-![LoginUI.png](https://github.com/ElecRex/HospitalManagementSystem-WPF/raw/master/imgs/LoginUI.png)
 
 ## License
 
