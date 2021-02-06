@@ -1,4 +1,6 @@
 ![.net](https://img.shields.io/badge/.NETFramework-4.7.2-blue.svg)
+[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+
 
 ## Overview
 - Hospital Management System desktop application
