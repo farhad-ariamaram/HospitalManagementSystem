@@ -1,6 +1,8 @@
 ![.net](https://img.shields.io/badge/.NETFramework-4.7.2-blue.svg)
 
-## Overview |  Three tier architecture desktop application based on Micosoft SQL Server CE (Compact) and C# .NET
+## Overview
+
+- Three tier architecture desktop application based on Micosoft SQL Server CE (Compact) and C# .NET
 
 ## Requirements
 
