@@ -9,6 +9,13 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HMSDataLayer", "HMSDataLaye
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HMSBussinesLogic", "HMSBussinesLogic\HMSBussinesLogic.csproj", "{024EB3D1-35EB-49E2-A4CA-3FBE397FD674}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "images", "images", "{1563D7D0-FD79-478F-8BCE-3344359E1722}"
+	ProjectSection(SolutionItems) = preProject
+		..\application.png = ..\application.png
+		..\Class Diagram.png = ..\Class Diagram.png
+		..\Database Model.png = ..\Database Model.png
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
