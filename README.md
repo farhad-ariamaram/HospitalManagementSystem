@@ -31,7 +31,15 @@
 ## Screenshot
 - Application
   
-  ![application.png](application.png)
+  ![application.png](images/application.png)
+  
+- Application
+  
+  ![application.png](images/Class Diagram.png)
+  
+- Application
+  
+  ![application.png](images/Database Model.png)
 
 ## License
 
