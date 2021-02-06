@@ -16,6 +16,9 @@
 
 - Microsoft SQL Server Compact 4.0
 
+## Build
+- remember to copy all entity frameworks DLLs and XMLs from Data Layer to Presentation Layer output after build.
+
 ## Architecture
 
 ```
