@@ -33,13 +33,13 @@
   
   ![application.png](images/application.png)
   
-- Application
+- Class Diagram
   
-  ![application.png](images/Class Diagram.png)
+  ![application.png](images/Class_Diagram.png)
   
-- Application
+- DataBase Model
   
-  ![application.png](images/Database Model.png)
+  ![application.png](images/Database_Model.png)
 
 ## License
 
