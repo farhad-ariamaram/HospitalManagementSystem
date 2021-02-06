@@ -1,8 +1,12 @@
 ![.net](https://img.shields.io/badge/.NETFramework-4.7.2-blue.svg)
 
 ## Overview
+- Hospital Management System desktop application
+- C# .NET
+- Three tier architecture 
+- Micosoft SQL Server CE (Compact)
+- DevComponents DotNetBar
 
-- Three tier architecture desktop application based on Micosoft SQL Server CE (Compact) and C# .NET
 
 ## Requirements
 
